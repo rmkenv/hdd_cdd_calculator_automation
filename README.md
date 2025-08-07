@@ -1,6 +1,6 @@
-# hdd_cdd_calculator_automation
-Automation of the hdd_cdd_calculator for energy management 
+
 # HDD/CDD Daily Automation
+Automation of the hdd_cdd_calculator for energy management 
 
 ## Setup
 
