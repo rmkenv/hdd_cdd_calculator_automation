@@ -42,4 +42,4 @@ if __name__ == "__main__":
     today_date = datetime.now().strftime("%Y-%m-%d")
     filename = os.path.join(DATA_DIR, f"hdd_cdd_data_{today_date}.csv")
     locations = read_locations()
-    fetch_and_save_data(locations
+    fetch_and_save_data(locations)
